@@ -1,5 +1,8 @@
 # Hi, I'm Ivan 👋
 
+[![Email](https://img.shields.io/badge/Email-oneboiwork@gmail.com-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:oneboiwork@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan-0A66C2?style=flat&logo=linkedin&logoColor=white)](URL)
+
 🎓 Computer Science student at [Akademia WIT](https://www.wit.edu.pl/), Warsaw.
 
 I'm focused on **DevOps and backend engineering**, with hands-on experience building, containerizing, deploying, and maintaining full-stack applications.
@@ -14,17 +17,15 @@ I work with **Linux, Docker, GitHub Actions, CI/CD, cloud and local virtual mach
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,cpp" />
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**Also familiar with**
-
-<img src="https://skillicons.dev/icons?i=python,cpp" />
+**AI-assisted development:** Claude Code · OpenAI Codex · GitHub Copilot
 
 ## 🚀 Featured Project
 
