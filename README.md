@@ -1,7 +1,7 @@
 # Hi, I'm Ivan 👋
 
 [![Email](https://img.shields.io/badge/Email-oneboiwork@gmail.com-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:oneboiwork@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan-0A66C2?style=flat&logo=linkedin&logoColor=white)](URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ivan-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ivan-boichenko-27229a434)
 
 🎓 Computer Science student at [Akademia WIT](https://www.wit.edu.pl/), Warsaw.
 
